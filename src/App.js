@@ -3,7 +3,6 @@ import './App.css';
 import Car from './vehicle.js';
 import Lunch from './food';
 import Model from './assemble';
-import Voilet from './color';
 
 function App() {
   return (
